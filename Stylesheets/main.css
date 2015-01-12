@@ -198,10 +198,18 @@ a {
 }
 
 /* Nav Link */
-nav a, a:visited {
-  color: #e52222;
+nav a{
+  color: #FFF;
 }
 
+/* Changed it up a bit */
+nav a:visited{
+  color: #FFF;
+}
+
+a:visited{
+  color: #e52222;
+}
 /* Selected Nav Link */
 nav a.selected, nav a:hover{
   color: #FFF;

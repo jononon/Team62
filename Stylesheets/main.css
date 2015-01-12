@@ -194,22 +194,14 @@ h1, h2 {
 
 /* Links */
 a {
-  color: #FFF;
+  color: #7d0000;
 }
 
 /* Nav Link */
-nav a{
+nav a a:visited{
   color: #FFF;
 }
 
-/* Changed it up a bit */
-header a:visited{
-  color: #FFF;
-}
-
-a:visited{
-  color: #e52222;
-}
 /* Selected Nav Link */
 nav a.selected, nav a:hover{
   color: #FFF;

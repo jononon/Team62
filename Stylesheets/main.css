@@ -24,6 +24,12 @@ h3 {
   margin: 0 0 1em 0;
 }
 
+section:after {
+  content:"";
+  display:block;
+  clear:both;
+}
+
 /****************
 HEADING
 ****************/
